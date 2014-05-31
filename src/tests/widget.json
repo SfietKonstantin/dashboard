@@ -1,0 +1,8 @@
+{
+    "name": "test widget",
+    "description": "A simple test widget, with a blue rectangle and a random number",
+    "default_settings": {
+        "size": "medium"
+    },
+    "defaultProperties": {}
+}

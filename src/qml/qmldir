@@ -1,0 +1,4 @@
+module org.SfietKonstantin.dashboard
+plugin dashboard
+WidgetContainer 1.0 WidgetContainer.qml
+
